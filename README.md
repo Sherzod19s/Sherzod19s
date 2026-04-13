@@ -50,3 +50,5 @@ Always eager to collaborate on **GenAI**, **FinTech**, and **data analytics** pr
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+
+[![](https://visitcount.itsvg.in/api?id=Sherzod19s&icon=0&color=0)](https://visitcount.itsvg.in)
